@@ -1,4 +1,4 @@
-import { Telegraf } from 'telegraf'
+const { Telegraf } = require('telegraf')
 
 const bot = new Telegraf('6545548439:AAGzoqXEPID3A_sAr_UkPJRv0KwCVviLbKs');
 
